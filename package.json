@@ -1,0 +1,19 @@
+{
+  "name": "oss-js-td5-feja",
+  "version": "1.0.0",
+  "description": "Rendu final TD5 félix Janot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fejalix/oss-js-td5-feja.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Fejalix/oss-js-td5-feja/issues"
+  },
+  "homepage": "https://github.com/Fejalix/oss-js-td5-feja#readme"
+}
